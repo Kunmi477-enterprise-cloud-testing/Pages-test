@@ -16,9 +16,9 @@ input[type="number"], button, #result {
 }
 
 button {
-    padding: 0.5em 1em;
+    padding: 2em 2em;
     background-color: #007bff;
-    color: white;
+    color: Gray;
     border: none;
     cursor: pointer;
     border-radius: 4px;
